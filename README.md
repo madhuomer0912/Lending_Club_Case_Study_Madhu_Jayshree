@@ -61,5 +61,5 @@ Give credit here.
 - This project grading system was based on https://www.marlo.online/loan-grades.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@madhuomer0912,@jays-26] - feel free to contact me!
 
